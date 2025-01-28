@@ -6,5 +6,7 @@ This project built a dataset of all the [New York Times Bestsellers](https://www
 
 [Indep_Study_2023_API_v_(1)](https://github.com/katieaebi/Unifying-Data-in-Literary-Publishing/blob/main/Indep_Study_2023_API_v_%20(1).ipynb)
   - notebook file with the code for how to make the dataset
+    
 <b>Other files</b>
   - all other files in this repository are CSVs of the data collected, separated by genre category (although they are uploaded as .txt files, trust they are comma delimited and can be loaded in as such).
+  - since the NYT Book API is a tad unreliable between categories, some datasets will not have data for certain columns where there's data in other categories. 
