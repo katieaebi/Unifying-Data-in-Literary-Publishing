@@ -9,4 +9,4 @@ This project built a dataset of all the [New York Times Bestsellers](https://www
     
 <b>Other files</b>
   - all other files in this repository are CSVs of the data collected, separated by genre category (although they are uploaded as .txt files, trust they are comma delimited and can be loaded in as such).
-  - since the NYT Book API is a tad unreliable between categories, some datasets will not have data for certain columns where there's data in other categories. 
+  - since the NYT Book API is a tad unreliable between categories, some datasets will not have data for certain columns where there's data in other categories. I'm currently working to fill those gaps, so a more complete version of the datasets will be uploaded soon.  
